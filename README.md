@@ -11,8 +11,15 @@
 
 <h4> I have completed my Senior Secondary Education From P.S.E.B affliated School With an overall percentage of 94. </h4>
 💫I Have Successfully completed the Excel Course from Great Learning Academy from which I learn the Data formatting , functions , Data sorting , filtering , charts. 
+
 Here's My Excel Course Compeletion Certificate ÷ 
 👉 ![image](https://github.com/user-attachments/assets/ef6fe34a-b358-4a9f-b734-0737315c6753)
+
+
+I Have attended the Induction Program organised by my collage from 10-07-2024 to 27-07-2024. 
+
+ <h5>MY VIEWS ON INDUCTION PROGRAM÷ </h5>
+    It is a great initiative by the collage to organise an Induction Program for the newly admitted students of first year . It really gives me the life lessons and what to do or not do in the future to become a successful person and and valuable asset of the collage as well as the whole society . 
 
 
 
