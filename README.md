@@ -10,5 +10,9 @@
 <h4> I have completed my High School Education from PSEB Affliated board School With the 100% Marks.  </h4>
 
 <h4> I have completed my Senior Secondary Education From P.S.E.B affliated School With an overall percentage of 94. </h4>
- ![image](https://github.com/user-attachments/assets/ef6fe34a-b358-4a9f-b734-0737315c6753)
+💫I Have Successfully completed the Excel Course from Great Learning Academy from which I learn the Data formatting , functions , Data sorting , filtering , charts. 
+Here's My Excel Course Compeletion Certificate ÷ 
+👉 ![image](https://github.com/user-attachments/assets/ef6fe34a-b358-4a9f-b734-0737315c6753)
+
+
 
